@@ -1,0 +1,36 @@
+Lien de présentation : *https://youtu.be/w8eonAAhxNQ*
+*Un support minime est mis en place pour cette base en MP*
+
+Base de simulation de vol ! (Style Microsoft Fly Simulator) 
+Ceci n'est pas une base FiveM Rolelay !
+
+- Venez découvrir plus de 200 avions ! 
+- Soyez contrôleur aérien et gérer la tour de contrôle !
+- Devenez Policier et lutter contre le trafic illégal !
+- Devenez Pompier et lutter contre les accidents aéroportuaire ! 
+- Devenez technicien et soyez le coeur battent de l'aéroport ! 
+
+
+**BASE SIMULATION DE VOL**
+```
+#ADD - Ajout de véhicules police nationale
+#ADD - Ajout du deux ton français syncronisé pour tout les joueur
+#ADD - Changement de postion des tp
+#ADD - Ajout du script supersonique et post combustion
+#ADD - Ajout des fumé pour show aérien
+#ADD - Tranduction de la majorité des script en francais
+#ADD - Changement du Loading Screen vers celui de papy
+#FIX - Changement de tout les webhook 
+#FIX - changement de tout les messages ingame pour ajouter ECAM devant pour ajouter du réalisme
+#ADD - Ajout de véhicules pompiers
+#ADD - Ajout d'un Hélicoptère EC-145 Gendarmerie
+#ADD - Ajout d'un porte avion fonctionnel ( ascenseur pour avion qui marchent, déflecteurs de catapulte et catapulte fonctionnel, cables d'apontage fonctionnel )
+#ADD - Ajout d'un script pour les avions à ailes à géométrie variable
+#ADD - Changmeent du loading screen
+#ADD - Nouveau script de gestion de la vitesse
+#ADD - Ajout d un script pour le ncatc qui permettra de tuer le joueur et de faire despawn le vehicule et afficher un message dans le chat pour l avertir de son erreur   
+#FIX - Changement de l'endroit de spawn 
+#ADD - Finalisation de la traduction du vMenu
+```
+
+Info : Cette base ne nécessite pas de bdd pour fonctionner.
